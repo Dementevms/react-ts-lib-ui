@@ -1,0 +1,12 @@
+/.git
+/.vscode
+node_modules
+src/registerServiceWorker.js
+src/**/__tests__/**
+
+
+**/test/*.ts
+**/test/*.tsx
+
+*.test.ts
+*.test.tsx
